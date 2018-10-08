@@ -1,6 +1,5 @@
 package com.enjoy.dp.Flyweight.example3;
 
-import com.enjoy.dp.Flyweight.example2.SecurityMgr;
 import org.junit.Test;
 
 /**
