@@ -1,0 +1,1738 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c84fdcc-1a2e-44c3-98ad-7795b74d5d8d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example5/MyFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Facade/ComputeStart/StartButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/facade/ComputeStart/StartButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Facade/ComputeStart/modules/CPU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/facade/ComputeStart/modules/CPU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Facade/ComputeStart/modules/Disk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/facade/ComputeStart/modules/Disk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Facade/ComputeStart/modules/Memory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/facade/ComputeStart/modules/Memory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Facade/example1/Business.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/facade/example1/Business.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Facade/example1/ConfigManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/facade/example1/ConfigManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Facade/example1/ConfigModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/facade/example1/ConfigModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Facade/example1/DAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/facade/example1/DAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Facade/example1/Presentation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/facade/example1/Presentation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Facade/example2/Business.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/facade/example2/Business.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Facade/example2/ConfigManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/facade/example2/ConfigManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Facade/example2/ConfigModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/facade/example2/ConfigModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Facade/example2/DAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/facade/example2/DAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Facade/example2/Facade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/facade/example2/Facade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Facade/example2/Presentation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/facade/example2/Presentation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Facade/example3/AModuleApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/facade/example3/AModuleApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Facade/example3/BModuleApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/facade/example3/BModuleApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Facade/example3/CModuleApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/facade/example3/CModuleApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Facade/example3/FacadeApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/facade/example3/FacadeApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/SimpleFactory/example1/Api.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example1/Api.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/SimpleFactory/example1/Impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example1/Impl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/SimpleFactory/example2/Api.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example2/Api.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/SimpleFactory/example2/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example2/Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/SimpleFactory/example2/ImplA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example2/ImplA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/SimpleFactory/example2/ImplB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example2/ImplB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/SimpleFactory/example3/Api.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example3/Api.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/SimpleFactory/example3/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example3/Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/SimpleFactory/example3/Impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example3/Impl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/SimpleFactory/example4/Api.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example4/Api.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/SimpleFactory/example4/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example4/Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/SimpleFactory/example4/Impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example4/Impl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/SimpleFactory/example4/Impl2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example4/Impl2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/SimpleFactory/example5/Api.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example5/Api.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/SimpleFactory/example5/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example5/Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/SimpleFactory/example5/FactoryTest.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example5/FactoryTest.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/SimpleFactory/example5/Impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example5/Impl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/SimpleFactory/example5/Impl2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example5/Impl2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/enjoy/dp/Facade/ComputerStart/ComputerStartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/enjoy/dp/facade/ComputerStart/ComputerStartTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/enjoy/dp/Facade/example1/Example1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/enjoy/dp/facade/example1/Example1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/enjoy/dp/Facade/example2/Example2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/enjoy/dp/facade/example2/Example2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/enjoy/dp/Facade/example3/Example3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/enjoy/dp/facade/example3/Example3Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/enjoy/dp/SimpleFactory/example1/Example1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/enjoy/dp/simplefactory/example1/Example1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/enjoy/dp/SimpleFactory/example2/Example2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/enjoy/dp/simplefactory/example2/Example2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/enjoy/dp/SimpleFactory/example3/Example3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/enjoy/dp/simplefactory/example3/Example3Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/enjoy/dp/SimpleFactory/example4/Example4Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/enjoy/dp/simplefactory/example4/Example4Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/enjoy/dp/SimpleFactory/example5/Example5Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/enjoy/dp/simplefactory/example5/Example5Test.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ExportDB.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/FactoryMethod/example1/ExportDB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExportOperate.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/FactoryMethod/example1/ExportOperate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExportOperate.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/FactoryMethod/example2/ExportOperate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Creator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/FactoryMethod/example3/Creator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExportTxtFile.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/FactoryMethod/example2/ExportTxtFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExportTxtFileOperate.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/FactoryMethod/example2/ExportTxtFileOperate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example5/MyFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Factory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example5/Factory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExportFileApi.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/FactoryMethod/example1/ExportFileApi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>My</find>
+      <find>ReentrantLock</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Singleton/example7/JavaCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Singleton/example8/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Singleton/example9/OneExtend.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Singleton/example10/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Singleton/example11/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Singleton/example12/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Strategy/example1/Price.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Strategy/example2/Price.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Strategy/example3/Price.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/enjoy/dp/Strategy/example3/Example3Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Strategy/example4/PaymentStrategy.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/enjoy/dp/Strategy/example4/Example4Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Strategy/example5/FileLog.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/enjoy/dp/Strategy/example8/Example8Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/enjoy/dp/Strategy/example5/Example5Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Strategy/example6/LogStrategy.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/enjoy/dp/Strategy/example6/Example6Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Strategy/example7/OneClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/enjoy/dp/TemplateMethod/example1/LoginModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/enjoy/dp/TemplateMethod/example2/WorkerModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/enjoy/dp/TemplateMethod/example3/NormalLoginModel.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/enjoy/dp/TemplateMethod/example3/Example3Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/enjoy/dp/TemplateMethod/example4/AbstractTemplate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/enjoy/dp/TemplateMethod/example5/UserModel.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/enjoy/dp/TemplateMethod/example5/Example5Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/enjoy/dp/TemplateMethod/example6/LoginCallback.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/enjoy/dp/TemplateMethod/example6/Example6Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/enjoy/dp/TemplateMethod/example7/UserModel.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/enjoy/dp/TemplateMethod/example7/Example7Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Visitor/example1/PersonalCustomer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/enjoy/dp/Visitor/example1/Example1Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Visitor/example2/ObjectStructure.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/enjoy/dp/Visitor/example2/Example2Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Visitor/example3/EnterpriseCustomer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/enjoy/dp/Visitor/example3/Example3Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Visitor/example4/PrintNameVisitor.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/enjoy/dp/Visitor/example4/Example4Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/enjoy/dp/Visitor/example5/Component.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/enjoy/dp/Visitor/example5/Example5Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/enjoy/dp/Strategy/example7/Example7Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/enjoy/dp/Singleton/example12/Example12Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/enjoy/dp/Singleton/example11/Example11Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/enjoy/dp/Singleton/example10/Example10Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/enjoy/dp/Singleton/example8/Example8Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/enjoy/dp/Singleton/example7/Example7Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/enjoy/dp/Singleton/example9/Example9Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/enjoy/dp/Decorator/example4/Example4Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/enjoy/dp/SimpleFactory/example5/MyFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/enjoy/dp/simplefactory/example5/Example5Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example5/MyFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example5/FactoryTest.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\repo" />
+        <option name="mavenHome" value="D:/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="294" />
+    <option name="y" value="76" />
+    <option name="width" value="1229" />
+    <option name="height" value="834" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="enjoy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="enjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="enjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
+              <item name="FactoryMethod" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="enjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
+              <item name="FactoryMethod" type="462c0819:PsiDirectoryNode" />
+              <item name="example1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="enjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
+              <item name="FactoryMethod" type="462c0819:PsiDirectoryNode" />
+              <item name="example2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="enjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
+              <item name="FactoryMethod" type="462c0819:PsiDirectoryNode" />
+              <item name="example3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="enjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
+              <item name="FactoryMethod" type="462c0819:PsiDirectoryNode" />
+              <item name="example4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="enjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
+              <item name="FactoryMethod" type="462c0819:PsiDirectoryNode" />
+              <item name="example5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="enjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
+              <item name="FactoryMethod" type="462c0819:PsiDirectoryNode" />
+              <item name="example6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="enjoy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="enjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="enjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
+              <item name="facade" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="enjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
+              <item name="facade" type="462c0819:PsiDirectoryNode" />
+              <item name="example1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="enjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
+              <item name="simplefactory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="enjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
+              <item name="simplefactory" type="462c0819:PsiDirectoryNode" />
+              <item name="example1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="enjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
+              <item name="simplefactory" type="462c0819:PsiDirectoryNode" />
+              <item name="example2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="enjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
+              <item name="simplefactory" type="462c0819:PsiDirectoryNode" />
+              <item name="example5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="enjoy" type="462c0819:PsiDirectoryNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
+              <item name="transEncode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="designpatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.enjoy.dp.Flyweight" />
+      <recent name="com.enjoy.dp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\designpatterns\src\main\java\com\enjoy\dp\Visitor\example5" />
+      <recent name="E:\IdeaProjects\designpatterns\src\main\java\com\enjoy\dp\Visitor\example4" />
+      <recent name="E:\IdeaProjects\designpatterns\src\main\java\com\enjoy\dp\Visitor\example3" />
+      <recent name="E:\IdeaProjects\designpatterns\src\main\java\com\enjoy\dp\Visitor\example2" />
+      <recent name="E:\IdeaProjects\designpatterns\src\main\java\com\enjoy\dp\Visitor\example1" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.enjoy.dp.TemplateMethod.example7" />
+      <recent name="com.enjoy.dp.TemplateMethod.example4" />
+      <recent name="com.enjoy.dp.Strategy.example7" />
+      <recent name="com.enjoy.dp.Strategy.example8" />
+      <recent name="com.enjoy.dp.Strategy.example2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\designpatterns\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Example5Test.example5MyTest">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Example4Test.example4Test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="designpatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.enjoy.dp.Decorator.example4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.enjoy.dp.Decorator.example4" />
+      <option name="MAIN_CLASS_NAME" value="com.enjoy.dp.Decorator.example4.Example4Test" />
+      <option name="METHOD_NAME" value="example4Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Example4Test.example4Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="designpatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.enjoy.dp.Decorator.example4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.enjoy.dp.Decorator.example4" />
+      <option name="MAIN_CLASS_NAME" value="com.enjoy.dp.Decorator.example4.Example4Test" />
+      <option name="METHOD_NAME" value="example4Test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Example4Test.example4Test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="designpatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.enjoy.dp.Decorator.example4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.enjoy.dp.Decorator.example4" />
+      <option name="MAIN_CLASS_NAME" value="com.enjoy.dp.Decorator.example4.Example4Test" />
+      <option name="METHOD_NAME" value="example4Test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Example5Test.example5MyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="designpatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.enjoy.dp.simplefactory.example5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.enjoy.dp.simplefactory.example5" />
+      <option name="MAIN_CLASS_NAME" value="com.enjoy.dp.simplefactory.example5.Example5Test" />
+      <option name="METHOD_NAME" value="example5MyTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TransCode.transCodeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="designpatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.enjoy.dp.transEncode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.enjoy.dp.transEncode" />
+      <option name="MAIN_CLASS_NAME" value="com.enjoy.dp.transEncode.TransCode" />
+      <option name="METHOD_NAME" value="transCodeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Example4Test.example4Test2" />
+      <item itemvalue="JUnit.Example4Test.example4Test (1)" />
+      <item itemvalue="JUnit.Example4Test.example4Test1" />
+      <item itemvalue="JUnit.TransCode.transCodeTest" />
+      <item itemvalue="JUnit.Example5Test.example5MyTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Example5Test.example5MyTest" />
+        <item itemvalue="JUnit.TransCode.transCodeTest" />
+        <item itemvalue="JUnit.Example4Test.example4Test2" />
+        <item itemvalue="JUnit.Example4Test.example4Test1" />
+        <item itemvalue="JUnit.Example4Test.example4Test (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c84fdcc-1a2e-44c3-98ad-7795b74d5d8d" name="Default" comment="" />
+      <created>1538264311256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538264311256</updated>
+      <workItem from="1538264316011" duration="1395000" />
+      <workItem from="1538345012425" duration="18263000" />
+      <workItem from="1538435226477" duration="1400000" />
+      <workItem from="1538890800926" duration="7153000" />
+      <workItem from="1538957211266" duration="5909000" />
+      <workItem from="1539004731261" duration="3538000" />
+      <workItem from="1539038087274" duration="1390000" />
+      <workItem from="1539069808963" duration="5138000" />
+      <workItem from="1539075968130" duration="14151000" />
+      <workItem from="1541051107920" duration="6437000" />
+      <workItem from="1541137311656" duration="1339000" />
+      <workItem from="1544338904056" duration="608000" />
+      <workItem from="1544511689659" duration="4709000" />
+      <workItem from="1544581867182" duration="13000" />
+      <workItem from="1558251318698" duration="2854000" />
+      <workItem from="1564574620944" duration="1296000" />
+      <workItem from="1564576183034" duration="4279000" />
+      <workItem from="1567813172859" duration="5091000" />
+      <workItem from="1567928834037" duration="599000" />
+      <workItem from="1567995862476" duration="1809000" />
+      <workItem from="1568616076265" duration="36000" />
+    </task>
+    <task id="LOCAL-00001" summary="Strategy Calculator">
+      <created>1538265071683</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1538265071683</updated>
+    </task>
+    <task id="LOCAL-00002" summary="decorator clothes">
+      <created>1538347065835</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1538347065835</updated>
+    </task>
+    <task id="LOCAL-00003" summary="observer">
+      <created>1538352988122</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1538352988122</updated>
+    </task>
+    <task id="LOCAL-00004" summary="adapter">
+      <created>1538363206915</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1538363206915</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Template">
+      <created>1538374547832</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1538374547832</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Facade">
+      <created>1538375869428</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1538375869428</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Proxy">
+      <created>1538379005178</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1538379005178</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Responsiblity Chain">
+      <created>1538395877764</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1538395877764</updated>
+    </task>
+    <task id="LOCAL-00009" summary="MyShiro">
+      <created>1538400294115</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1538400294115</updated>
+    </task>
+    <task id="LOCAL-00010" summary="State">
+      <created>1538901148277</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1538901148277</updated>
+    </task>
+    <task id="LOCAL-00011" summary="flyweight">
+      <created>1539005830594</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1539005830594</updated>
+    </task>
+    <task id="LOCAL-00012" summary="memento">
+      <created>1539006724546</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1539006724546</updated>
+    </task>
+    <task id="LOCAL-00013" summary="correct flyweight">
+      <created>1539008384616</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1539008384616</updated>
+    </task>
+    <task id="LOCAL-00014" summary="correct flyweight">
+      <created>1539008451194</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1539008451194</updated>
+    </task>
+    <task id="LOCAL-00015" summary="command">
+      <created>1539076479065</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1539076479065</updated>
+    </task>
+    <task id="LOCAL-00016" summary="prototype">
+      <created>1539077487700</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1539077487700</updated>
+    </task>
+    <task id="LOCAL-00017" summary="design patterns">
+      <created>1539090090578</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1539090090578</updated>
+    </task>
+    <task id="LOCAL-00018" summary="design patterns">
+      <created>1539091160576</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1539091160576</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Example4Test_example4Test_(1) - 2018.10.09 at 21h 13m 16s.xml">
+      <configuration name="Example4Test.example4Test (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Example4Test_example4Test2 - 2018.10.09 at 21h 13m 45s.xml">
+      <configuration name="Example4Test.example4Test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Example4Test_example4Test_(1) - 2018.10.09 at 21h 14m 53s.xml">
+      <configuration name="Example4Test.example4Test (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Example4Test_example4Test1 - 2018.10.09 at 21h 15m 50s.xml">
+      <configuration name="Example4Test.example4Test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Example4Test_example4Test2 - 2018.10.09 at 21h 15m 58s.xml">
+      <configuration name="Example4Test.example4Test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Example4Test_example4Test1 - 2018.10.09 at 21h 17m 09s.xml">
+      <configuration name="Example4Test.example4Test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Example4Test_example4Test2 - 2018.10.09 at 21h 17m 21s.xml">
+      <configuration name="Example4Test.example4Test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TransCode_transCodeTest - 2018.10.09 at 21h 27m 53s.xml">
+      <configuration name="TransCode.transCodeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Example5Test_example5MyTest - 2018.11.01 at 15h 18m 09s.xml">
+      <configuration name="Example5Test.example5MyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Example5Test_example5MyTest - 2018.11.01 at 15h 18m 26s.xml">
+      <configuration name="Example5Test.example5MyTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="87407000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="PlantUML" order="9" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50373137" side_tool="true" visible="true" weight="0.16774891" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49626866" visible="true" weight="0.16774891" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4729064" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.71001303" visible="true" weight="0.19349681" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info id="Structure" order="1" sideWeight="0.289987" side_tool="true" visible="true" weight="0.19349681" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934355" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="15" visible="true" weight="0.08057851" />
+      <window_info anchor="bottom" id="Spring" order="14" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936507" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32822758" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32934928" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Strategy Calculator" />
+    <MESSAGE value="decorator clothes" />
+    <MESSAGE value="observer" />
+    <MESSAGE value="adapter" />
+    <MESSAGE value="Template" />
+    <MESSAGE value="Facade" />
+    <MESSAGE value="Proxy" />
+    <MESSAGE value="Responsiblity Chain" />
+    <MESSAGE value="MyShiro" />
+    <MESSAGE value="State" />
+    <MESSAGE value="flyweight" />
+    <MESSAGE value="memento" />
+    <MESSAGE value="correct flyweight" />
+    <MESSAGE value="command" />
+    <MESSAGE value="prototype" />
+    <MESSAGE value="design patterns" />
+    <option name="LAST_COMMIT_MESSAGE" value="design patterns" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/Decorator/example4/EncryptOutputStream2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/enjoy/dp/transEncode/TransCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="62" column="9" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/enjoy/dp/simplefactory/example1/Example1Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/enjoy/dp/simplefactory/example2/Example2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/enjoy/dp/Decorator/example5/Example5Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/enjoy/dp/simplefactory/example5/Example5Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Properties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1634">
+          <caret line="121" column="45" selection-start-line="120" selection-end-line="121" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/enjoy/dp/facade/example1/Example1Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/facade/example1/Business.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/facade/example1/DAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/facade/example1/Presentation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/facade/example1/ConfigModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/facade/example1/ConfigManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.concurrent.locks.ReentrantLock.FairSync">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.concurrent.locks.ReentrantLock.FairSync</OriginalElement>
+          <nodes>
+            <node x="63.0" y="162.0">java.util.concurrent.locks.AbstractQueuedSynchronizer</node>
+            <node x="123.5" y="324.0">java.util.concurrent.locks.ReentrantLock.FairSync</node>
+            <node x="134.0" y="243.0">java.util.concurrent.locks.ReentrantLock.Sync</node>
+            <node x="0.0" y="81.0">java.util.concurrent.locks.AbstractOwnableSynchronizer</node>
+            <node x="114.0" y="0.0">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.concurrent.locks.ReentrantLock.Sync" target="java.util.concurrent.locks.AbstractQueuedSynchronizer">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.util.concurrent.locks.AbstractQueuedSynchronizer" target="java.util.concurrent.locks.AbstractOwnableSynchronizer">
+              <point x="-54.0" y="-15.5" />
+              <point x="117.0" y="137.0" />
+              <point x="110.5" y="137.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.util.concurrent.locks.AbstractQueuedSynchronizer" target="java.io.Serializable">
+              <point x="54.0" y="-15.5" />
+              <point x="225.0" y="137.0" />
+              <point x="231.5" y="137.0" />
+              <point x="231.5" y="56.0" />
+              <point x="199.5" y="56.0" />
+              <point x="28.5" y="15.5" />
+            </edge>
+            <edge source="java.util.concurrent.locks.AbstractOwnableSynchronizer" target="java.io.Serializable">
+              <point x="0.0" y="-15.5" />
+              <point x="110.5" y="56.0" />
+              <point x="142.5" y="56.0" />
+              <point x="-28.5" y="15.5" />
+            </edge>
+            <edge source="java.util.concurrent.locks.ReentrantLock.FairSync" target="java.util.concurrent.locks.ReentrantLock.Sync">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-211.0" y="53.0" />
+          <SelectedNodes>
+            <node>java.util.concurrent.locks.ReentrantLock.FairSync</node>
+            <node>java.io.Serializable</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.concurrent.locks.ReentrantLock.Sync">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.concurrent.locks.ReentrantLock.Sync</OriginalElement>
+          <nodes>
+            <node x="20.0" y="172.0">java.util.concurrent.locks.AbstractQueuedSynchronizer</node>
+            <node x="163.0" y="263.0">java.util.concurrent.locks.ReentrantLock.Sync</node>
+            <node x="104.49999999999999" y="81.0">java.util.concurrent.locks.AbstractOwnableSynchronizer</node>
+            <node x="86.1111111111111" y="0.0">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.concurrent.locks.AbstractOwnableSynchronizer" target="java.util.concurrent.locks.AbstractOwnableSynchronizer">
+              <point x="-73.66666666666667" y="15.5" />
+              <point x="141.33333333333331" y="132.0" />
+              <point x="84.49999999999999" y="132.0" />
+              <point x="84.49999999999999" y="96.5" />
+              <point x="-110.5" y="-0.0" />
+            </edge>
+            <edge source="java.util.concurrent.locks.ReentrantLock.Sync" target="java.util.concurrent.locks.AbstractQueuedSynchronizer">
+              <point x="0.0" y="-15.5" />
+              <point x="72.0" y="15.5" />
+            </edge>
+            <edge source="java.util.concurrent.locks.ReentrantLock.Sync" target="java.util.concurrent.locks.AbstractOwnableSynchronizer">
+              <point x="24.666666666666657" y="-15.5" />
+              <point x="224.66666666666663" y="243.0" />
+              <point x="288.6666666666667" y="243.0" />
+              <point x="73.66666666666669" y="15.5" />
+            </edge>
+            <edge source="java.util.concurrent.locks.AbstractQueuedSynchronizer" target="java.util.concurrent.locks.AbstractOwnableSynchronizer">
+              <point x="54.0" y="-15.5" />
+              <point x="182.0" y="152.0" />
+              <point x="215.0" y="152.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.util.concurrent.locks.AbstractQueuedSynchronizer" target="java.io.Serializable">
+              <point x="-54.0" y="-15.5" />
+              <point x="73.99999999999999" y="56.0" />
+              <point x="114.6111111111111" y="56.0" />
+              <point x="-28.5" y="15.5" />
+            </edge>
+            <edge source="java.util.concurrent.locks.AbstractOwnableSynchronizer" target="java.io.Serializable">
+              <point x="0.0" y="-15.5" />
+              <point x="215.0" y="56.0" />
+              <point x="171.6111111111111" y="56.0" />
+              <point x="28.5" y="15.5" />
+            </edge>
+            <edge source="java.util.concurrent.locks.AbstractQueuedSynchronizer" target="java.util.concurrent.locks.AbstractQueuedSynchronizer">
+              <point x="-72.0" y="15.5" />
+              <point x="56.0" y="223.0" />
+              <point x="0.0" y="223.0" />
+              <point x="0.0" y="187.5" />
+              <point x="-108.0" y="-0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-211.0" y="12.0" />
+          <SelectedNodes>
+            <node>java.util.concurrent.locks.AbstractQueuedSynchronizer</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.concurrent.locks.AbstractQueuedSynchronizer">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.concurrent.locks.AbstractQueuedSynchronizer</OriginalElement>
+          <nodes>
+            <node x="63.0" y="162.0">java.util.concurrent.locks.AbstractQueuedSynchronizer</node>
+            <node x="0.0" y="81.0">java.util.concurrent.locks.AbstractOwnableSynchronizer</node>
+            <node x="114.0" y="0.0">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.concurrent.locks.AbstractQueuedSynchronizer" target="java.util.concurrent.locks.AbstractOwnableSynchronizer">
+              <point x="-54.0" y="-15.5" />
+              <point x="117.0" y="137.0" />
+              <point x="110.5" y="137.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.util.concurrent.locks.AbstractQueuedSynchronizer" target="java.io.Serializable">
+              <point x="54.0" y="-15.5" />
+              <point x="225.0" y="137.0" />
+              <point x="231.5" y="137.0" />
+              <point x="231.5" y="56.0" />
+              <point x="199.5" y="56.0" />
+              <point x="28.5" y="15.5" />
+            </edge>
+            <edge source="java.util.concurrent.locks.AbstractOwnableSynchronizer" target="java.io.Serializable">
+              <point x="0.0" y="-15.5" />
+              <point x="110.5" y="56.0" />
+              <point x="142.5" y="56.0" />
+              <point x="-28.5" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-211.0" y="-28.0" />
+          <SelectedNodes>
+            <node>java.util.concurrent.locks.AbstractQueuedSynchronizer</node>
+            <node>java.util.concurrent.locks.AbstractOwnableSynchronizer</node>
+            <node>java.io.Serializable</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.concurrent.locks.ReentrantLock">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.concurrent.locks.ReentrantLock</OriginalElement>
+          <nodes>
+            <node x="166.6609126984127" y="81.0">java.util.concurrent.locks.AbstractQueuedSynchronizer</node>
+            <node x="334.25" y="529.0">java.util.concurrent.locks.ReentrantLock.FairSync</node>
+            <node x="0.0" y="540.5">java.util.concurrent.locks.Lock</node>
+            <node x="212.89761904761906" y="653.0">java.util.concurrent.locks.ReentrantLock</node>
+            <node x="201.35" y="425.0">java.util.concurrent.locks.ReentrantLock.Sync</node>
+            <node x="109.25" y="529.0">java.util.concurrent.locks.ReentrantLock.NonfairSync</node>
+            <node x="148.7859126984127" y="0.0">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.concurrent.locks.ReentrantLock.NonfairSync" target="java.util.concurrent.locks.AbstractQueuedSynchronizer">
+              <point x="-64.33333333333331" y="-27.0" />
+              <point x="141.41666666666669" y="504.0" />
+              <point x="156.74186507936508" y="504.0" />
+              <point x="156.74186507936508" y="405.0" />
+              <point x="239.86091269841268" y="405.0" />
+              <point x="-48.80000000000001" y="142.0" />
+            </edge>
+            <edge source="java.util.concurrent.locks.ReentrantLock.NonfairSync" target="java.util.concurrent.locks.ReentrantLock">
+              <point x="48.25" y="27.0" />
+              <point x="254.0" y="603.0" />
+              <point x="287.9531746031746" y="603.0" />
+              <point x="-21.444444444444457" y="-38.5" />
+            </edge>
+            <edge source="java.util.concurrent.locks.ReentrantLock.Sync" target="java.util.concurrent.locks.ReentrantLock">
+              <point x="0.0" y="27.0" />
+              <point x="297.85" y="504.0" />
+              <point x="312.75" y="504.0" />
+              <point x="312.75" y="633.0" />
+              <point x="309.39761904761906" y="633.0" />
+              <point x="0.0" y="-38.5" />
+            </edge>
+            <edge source="java.util.concurrent.locks.ReentrantLock" target="java.io.Serializable">
+              <point x="-64.33333333333331" y="-38.5" />
+              <point x="245.06428571428575" y="623.0" />
+              <point x="85.5" y="623.0" />
+              <point x="85.5" y="56.0" />
+              <point x="177.2859126984127" y="56.0" />
+              <point x="-28.5" y="15.5" />
+            </edge>
+            <edge source="java.util.concurrent.locks.ReentrantLock.FairSync" target="java.util.concurrent.locks.AbstractQueuedSynchronizer">
+              <point x="48.25" y="-27.0" />
+              <point x="479.0" y="405.0" />
+              <point x="386.26091269841265" y="405.0" />
+              <point x="97.59999999999997" y="142.0" />
+            </edge>
+            <edge source="java.util.concurrent.locks.ReentrantLock.Sync" target="java.util.concurrent.locks.AbstractQueuedSynchronizer">
+              <point x="48.25" y="-27.0" />
+              <point x="346.1" y="405.0" />
+              <point x="337.4609126984127" y="405.0" />
+              <point x="48.80000000000001" y="142.0" />
+            </edge>
+            <edge source="java.util.concurrent.locks.ReentrantLock" target="java.util.concurrent.locks.ReentrantLock.Sync">
+              <point x="21.444444444444457" y="-38.5" />
+              <point x="330.8420634920635" y="633.0" />
+              <point x="323.75" y="633.0" />
+              <point x="323.75" y="504.0" />
+              <point x="336.44999999999993" y="504.0" />
+              <point x="38.59999999999996" y="27.0" />
+            </edge>
+            <edge source="java.util.concurrent.locks.ReentrantLock.FairSync" target="java.util.concurrent.locks.ReentrantLock">
+              <point x="64.33333333333331" y="27.0" />
+              <point x="495.0833333333333" y="633.0" />
+              <point x="395.17539682539683" y="633.0" />
+              <point x="85.77777777777779" y="-38.5" />
+            </edge>
+            <edge source="java.util.concurrent.locks.ReentrantLock" target="java.util.concurrent.locks.Lock">
+              <point x="-85.77777777777777" y="-38.5" />
+              <point x="223.6198412698413" y="633.0" />
+              <point x="37.5" y="633.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="java.util.concurrent.locks.ReentrantLock.NonfairSync" target="java.util.concurrent.locks.ReentrantLock.Sync">
+              <point x="64.33333333333331" y="-27.0" />
+              <point x="270.0833333333333" y="504.0" />
+              <point x="259.25" y="504.0" />
+              <point x="-38.60000000000002" y="27.0" />
+            </edge>
+            <edge source="java.util.concurrent.locks.AbstractQueuedSynchronizer" target="java.io.Serializable">
+              <point x="0.0" y="-142.0" />
+              <point x="288.6609126984127" y="56.0" />
+              <point x="234.2859126984127" y="56.0" />
+              <point x="28.5" y="15.5" />
+            </edge>
+            <edge source="java.util.concurrent.locks.ReentrantLock" target="java.util.concurrent.locks.ReentrantLock.FairSync">
+              <point x="64.33333333333331" y="-38.5" />
+              <point x="373.7309523809524" y="623.0" />
+              <point x="430.75" y="623.0" />
+              <point x="0.0" y="27.0" />
+            </edge>
+            <edge source="java.util.concurrent.locks.AbstractQueuedSynchronizer" target="java.util.concurrent.locks.AbstractQueuedSynchronizer">
+              <point x="-97.6" y="142.0" />
+              <point x="191.0609126984127" y="385.0" />
+              <point x="146.6609126984127" y="385.0" />
+              <point x="146.6609126984127" y="223.0" />
+              <point x="-122.0" y="-0.0" />
+            </edge>
+            <edge source="java.util.concurrent.locks.ReentrantLock" target="java.util.concurrent.locks.ReentrantLock.NonfairSync">
+              <point x="-42.888888888888886" y="-38.5" />
+              <point x="266.50873015873015" y="613.0" />
+              <point x="157.5" y="613.0" />
+              <point x="-48.25" y="27.0" />
+            </edge>
+            <edge source="java.util.concurrent.locks.ReentrantLock.FairSync" target="java.util.concurrent.locks.ReentrantLock.Sync">
+              <point x="-48.25" y="-27.0" />
+              <point x="382.5" y="504.0" />
+              <point x="375.04999999999995" y="504.0" />
+              <point x="77.19999999999993" y="27.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-245.0" y="220.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22876">
+          <caret line="1259" column="25" selection-start-line="1259" selection-start-column="25" selection-end-line="1259" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7619">
+          <caret line="456" column="17" selection-start-line="456" selection-start-column="17" selection-end-line="456" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/FactoryMethod/example6/ExportOperate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Hashtable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="54" column="73" lean-forward="true" selection-start-line="54" selection-start-column="73" selection-end-line="54" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-113411">
+          <caret line="266" column="13" selection-start-line="266" selection-start-column="13" selection-end-line="266" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/AbstractFactory/example1/CPUFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="87" column="64" lean-forward="true" selection-start-line="87" selection-start-column="64" selection-end-line="87" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example1/Api.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example1/Impl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example2/Api.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example2/ImplA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example2/ImplB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example2/Factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example3/Api.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example3/Impl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example3/Factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example4/Api.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example4/Impl2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example4/Impl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example4/Factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example5/Api.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example5/Impl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example5/Impl2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example5/FactoryTest.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example5/MyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/simplefactory/example5/Factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/FactoryMethod/example1/ExportFileApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/FactoryMethod/example1/ExportDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/FactoryMethod/example1/ExportOperate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.enjoy.dp.FactoryMethod.example2">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.enjoy.dp.FactoryMethod.example2</OriginalElement>
+          <nodes>
+            <node x="190.0" y="81.0">com.enjoy.dp.FactoryMethod.example2.ExportDBOperate</node>
+            <node x="123.0" y="238.0">com.enjoy.dp.FactoryMethod.example2.ExportTxtFile</node>
+            <node x="0.0" y="314.0">com.enjoy.dp.FactoryMethod.example2.Example2Test</node>
+            <node x="0.0" y="81.0">com.enjoy.dp.FactoryMethod.example2.ExportTxtFileOperate</node>
+            <node x="0.0" y="238.0">com.enjoy.dp.FactoryMethod.example2.ExportDB</node>
+            <node x="55.75" y="157.0">com.enjoy.dp.FactoryMethod.example2.ExportFileApi</node>
+            <node x="108.25" y="0.0">com.enjoy.dp.FactoryMethod.example2.ExportOperate</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.enjoy.dp.FactoryMethod.example2.ExportDB" target="com.enjoy.dp.FactoryMethod.example2.ExportFileApi">
+              <point x="0.0" y="-15.5" />
+              <point x="51.5" y="213.0" />
+              <point x="86.75" y="213.0" />
+              <point x="-31.0" y="15.5" />
+            </edge>
+            <edge source="com.enjoy.dp.FactoryMethod.example2.ExportTxtFile" target="com.enjoy.dp.FactoryMethod.example2.ExportFileApi">
+              <point x="0.0" y="-15.5" />
+              <point x="184.0" y="213.0" />
+              <point x="148.75" y="213.0" />
+              <point x="31.0" y="15.5" />
+            </edge>
+            <edge source="com.enjoy.dp.FactoryMethod.example2.ExportDBOperate" target="com.enjoy.dp.FactoryMethod.example2.ExportOperate">
+              <point x="0.0" y="-15.5" />
+              <point x="265.5" y="56.0" />
+              <point x="208.75" y="56.0" />
+              <point x="33.5" y="15.5" />
+            </edge>
+            <edge source="com.enjoy.dp.FactoryMethod.example2.ExportTxtFileOperate" target="com.enjoy.dp.FactoryMethod.example2.ExportOperate">
+              <point x="0.0" y="-15.5" />
+              <point x="85.0" y="56.0" />
+              <point x="141.75" y="56.0" />
+              <point x="-33.5" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="2.0" y="168.0" />
+          <SelectedNodes>
+            <node>com.enjoy.dp.FactoryMethod.example2.ExportOperate</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/FactoryMethod/example2/ExportTxtFileOperate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/FactoryMethod/example2/ExportTxtFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/FactoryMethod/example2/ExportOperate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/enjoy/dp/FactoryMethod/example3/Creator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
